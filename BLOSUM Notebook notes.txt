@@ -1,0 +1,2 @@
+Note for the blosum:
+!pip install biotite
