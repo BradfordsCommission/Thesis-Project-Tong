@@ -1,2 +1,3 @@
 Note for the blosum:
 !pip install biotite
+https://biopython.org/docs/1.74/api/Bio.SubsMat.html
