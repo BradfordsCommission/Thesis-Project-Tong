@@ -12,8 +12,8 @@ Sequence_Length = A_Count + T_Count + C_Count + G_Count
 print(str(Sequence_Length))
 
 #then, grab the %A content, and %T content, store these
-A_Content = A_Count/Sequence_Length
-T_Content = T_Count/Sequence_Length
+A_Content = A_Count/Sequence_Length*100
+T_Content = T_Count/Sequence_Length*100
 
 #then read out the %A and T content
 print("The percent A content is " + str(A_Content) + "% and the percent T content is " + str(T_Content) + "% !") 
