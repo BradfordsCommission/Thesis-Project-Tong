@@ -1,7 +1,5 @@
 # Thesis-Project-Tong
-A collection of code to be integrated into a single notebook
-Note for the blosum:
-!pip install biotite
-https://biopython.org/docs/1.74/api/Bio.SubsMat.html
-https://rebelsky.cs.grinnell.edu/ExBioPy/Code/chap4.py
-python -m notebook for launching notebook from cmd prompt, dosen't work for my computer for some reason
+This repository contains the bioinformatics platform regarding the thesis project for the CHEM-4900 course.
+
+This file can be run in either Jupyter or Google Colab.
+To run this, simple download the file into a desired location, and run the file through either of these applications.
